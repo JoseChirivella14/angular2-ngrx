@@ -1,4 +1,4 @@
 export interface Birthday {
   Name: string;
-  Date: Date;s
+  Date: Date;
 }
